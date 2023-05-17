@@ -52,7 +52,6 @@ function loadMapScript() {
 
 
 
-**Demo in the web browser**
 
 
 # Customization

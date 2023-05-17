@@ -1,3 +1,11 @@
+/*
+@author [Md Rasheduzzaman]
+@email [jmrashed@mail.com]
+@create date 2023-05-17 14:49:33
+@modify date 2023-05-17 14:49:33
+@desc [Draw polyline on google map using latitude and longitude coordinates] 
+*/
+
 // Load the Google Maps JavaScript API asynchronously
 function loadMapScript() {
   var script = document.createElement("script");
