@@ -1,5 +1,7 @@
 # Draw polyline on google map using latitude and longitude coordinates
 
+[![Code Coverage](https://img.shields.io/codecov/c/github/jmrashed/google-maps-polyline-draw.svg)](https://codecov.io/gh/jmrashed/google-maps-polyline-draw)
+
 This project demonstrates how to draw a polyline on Google Maps using latitude and longitude coordinates. It also includes marking the start and end points on the map.
 
 ## Getting Started
