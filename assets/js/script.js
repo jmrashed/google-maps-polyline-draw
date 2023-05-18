@@ -10,7 +10,7 @@
 function loadMapScript() {
   var script = document.createElement("script");
   script.src =
-    "https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap";
+    "https://maps.googleapis.com/maps/api/js?key=AIzaSyBVF8ZCdPLYBEC2-PCRww1_Q0Abe5GYP1c&callback=initMap";
   document.head.appendChild(script);
 }
 
@@ -82,7 +82,7 @@ function initMap() {
       }
     }
   };
-  xhr.open("GET", "./assets/json/coordinates.json");
+  xhr.open("GET", "./assets/json/mouchak-to-uttara.json");
   xhr.send();
 }
 // Call the function to load the map script
