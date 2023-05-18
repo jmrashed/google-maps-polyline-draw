@@ -1,0 +1,150 @@
+
+[
+    {
+
+        
+        "lat": 23.745873078476464,
+        "lng": 90.41195551961286,
+        "label": "Mouchak Market",
+        "time": "10:00 AM"
+    },
+    {
+        "lat": 23.749672763706688, 
+        "lng": 90.41254999415074,
+        "label": "Malibagh Railgate",
+        "time": "10:15 AM"
+    },
+    {
+        "lat": 23.754717457573552, 
+        "lng": 90.41536835387878,
+        "label": "Abul Hotel",
+        "time": "10:30 AM"
+    },
+    {
+        "lat": 23.757355822101527, 
+        "lng": 90.41720724731655,
+        "label": "Hazipara CNG Filling Station",
+        "time": "10:45 AM"
+    },
+    {
+        "lat": 23.759271507911013, 
+        "lng": 90.41830791183013,
+        "label": "Better Life Hospital",
+        "time": "11:00 AM"
+    },
+    {
+        "lat": 23.763217417111054, 
+        "lng": 90.42023992757133,
+        "label": "Delta Health Care",
+        "time": "11:15 AM"
+    },
+    {
+        "lat": 23.764851708347255,
+        "lng":  90.42122998740953,
+        "label": "Salam Dairy Farm",
+        "time": "11:20 AM"
+    },
+    {
+        "lat": 23.76539103642052, 
+        "lng": 90.42156171645009,
+        "label": "Korean & Japanese Language",
+        "time": "11:35 AM"
+    },
+    {
+        "lat": 23.766234689908597, 
+        "lng": 90.42209758636301 ,
+        "label": "Hatirjheel South U Loop",
+        "time": "11:50 AM"
+    },
+    {
+        "lat": 23.77211480190161,
+        "lng": 90.42526789751476 ,
+        "label": "Dominos Pizza Badda",
+        "time": "12:05 PM"
+    },
+    {
+        "lat": 23.77469085994277,
+        "lng":  90.4259441143552,
+        "label": "Fiza Electronics",
+        "time": "12:15 PM"
+    },
+    {
+        "lat": 23.781516809914827,  
+        "lng": 90.42548684680646,
+        "label": "Pran Center",
+        "time": "12:30 PM"
+    },
+    {
+        "lat": 23.78356476262729, 
+        "lng": 90.42604065638074 ,
+        "label": "Hossen Market",
+        "time": "12:45 PM"
+    },
+    {
+        "lat": 23.789458521030365, 
+        "lng": 90.42478130867714 ,
+        "label": "Waterfall Garden Cafe",
+        "time": "01:00 PM"
+    },
+    {
+        "lat": 23.792353237387722,  
+        "lng": 90.42428819054238 ,
+        "label": "Confidence Shopping Mall",
+        "time": "01:15 PM"
+    },
+    {
+        "lat": 23.798142476641196,  
+        "lng": 90.42321850343193 ,
+        "label": "NotunBazar Bus Stop",
+        "time": "01:30 PM"
+    },
+
+    {
+        "lat": 23.798142476641196,  
+        "lng": 90.42321850343193 ,
+        "label": "NotunBazar Bus Stop",
+        "time": "02:00 PM"
+    },
+    {
+        "lat": 23.81051836619854,  
+        "lng": 90.41981978169581 ,
+        "label": "Morol BAzar Nodda",
+        "time": "02:15 PM"
+    },
+    {
+        "lat": 23.81928419686653, 
+        "lng": 90.4165045104347  ,
+        "label": "Parves Bike Service Center",
+        "time": "02:30 PM"
+    },
+    {
+        "lat": 23.825155514854718,  
+        "lng": 90.42084394988736  ,
+        "label": "BRTC Double Decker Bus Stop",
+        "time": "02:45 PM"
+    },
+    {
+        "lat":23.836283524845964, 
+        "lng": 90.41822586712553  ,
+        "label": "Le Meridien Dhaka",
+        "time": "03:00 PM"
+    },
+    {
+        "lat":23.846025722666436,
+        "lng":  90.41234575064222 ,
+        "label": "Kawral Foot Over Bridge",
+        "time": "03:15 PM"
+    },
+    {
+        "lat":23.85027914858193, 
+        "lng":  90.40929600481816,
+        "label": "Airport Rail Station",
+        "time": "03:30 PM"
+    },
+    {
+        "lat":23.850910558789632,  
+        "lng":  90.41094226056435,
+        "label": "Airport Police Station",
+        "time": "03:45 PM"
+    }
+]
